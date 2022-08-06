@@ -24,7 +24,9 @@
 .logo h1{
   font-size: 2.3rem;
 }
-
+.logo4 h1{
+  font-family: cursive;
+}
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -71,35 +73,13 @@ a {
 }
 .box {
   margin-right:2rem;
-  
+  margin: auto;
   margin-left:2rem;
   padding: 2rem;
-  box-shadow: 2px 2px 30px 0px rgb(197, 197, 197);
-  border-radius: 1.5rem;
   display: flex;
 }
 .procedureSteps li {
   margin-top: 0px ;
-}
-
-
-.links {
-  text-decoration: none;
-  padding: 1rem 2rem;
-  background-color: rgba(196, 217, 255, 0.459);
-  width: fit-content;
-  color: darkblue;
-  font-weight: 700;
-  margin-bottom: 1rem;
-  border-radius: 1.5rem;
-}
-
-.links:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 2rem rgba(190, 190, 190, 0.342);
-  transition-duration: 200ms;
-  background-color: rgb(255, 184, 53);
-  color: rgb(5, 5, 5);
 }
 
 .button {
@@ -128,3 +108,22 @@ a {
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
+
+.links {
+  text-decoration: none;
+  padding: 1rem 2rem;
+  background-color: rgba(196, 217, 255, 0.459);
+  width: fit-content;
+  color: darkblue;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  border-radius: 1.5rem;
+}
+
+.links:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 2rem rgba(190, 190, 190, 0.342);
+  transition-duration: 200ms;
+  background-color: rgb(255, 184, 53);
+  color: rgb(5, 5, 5);
+}

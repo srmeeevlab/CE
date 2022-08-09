@@ -74,6 +74,10 @@ a {
   padding: 2rem;
   display: flex;
 }
+.menu {
+  margin-bottom: auto;
+}
+
 .procedureSteps li {
   margin-top: 0px ;
 }

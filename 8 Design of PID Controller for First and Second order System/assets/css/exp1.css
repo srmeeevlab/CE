@@ -71,11 +71,13 @@ a {
 .para {
   word-spacing: 0.3rem;
   font-size: 1rem;
-}
-.box {
+}.box {
   margin: auto;
   padding: 2rem;
   display: flex;
+}
+.menu{
+  margin-bottom: auto;
 }
 .procedureSteps li {
   margin-top: 0px ;

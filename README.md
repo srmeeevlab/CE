@@ -60,11 +60,8 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 Experiment No. | Experiment Name 
 :--|:--
 EXP_01 | Obtaining Transfer Function using Block Diagram Reduction Technique
-EXP_02 | Study of First and Second Order System
-EXP_03 | Generation of Transfer Function for a given Electric Network
 EXP_04 | Determination of Time Domain Specifications
 EXP_05 | Stability Analysis of a given system Using Root Locus
 EXP_06 | Stability Analysis of a given system Using Bode Plot
 EXP_07 | Stability Analysis of a given system Using Polar Plot
 EXP_08 | Design of PID Controller for First and Second order System
-EXP_09 | Speed Control of AC servo Motor
